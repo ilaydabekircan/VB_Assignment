@@ -1,0 +1,9 @@
+actions:
+  - type: insert
+    position: "after"
+    target: "body"
+    element: "<footer>Footer Content</footer>"
+
+  - type: alter
+    oldValue: "Machine Learning"
+    newValue: "AI"
